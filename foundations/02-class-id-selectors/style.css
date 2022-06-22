@@ -9,3 +9,9 @@
 .medium-big {
     font-size: 24px;
 }
+.light-green-background {
+    background-color: rgb(10, 210, 25);
+}
+.bold {
+    font-weight: bold;
+}
