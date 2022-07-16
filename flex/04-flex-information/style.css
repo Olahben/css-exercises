@@ -10,6 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  
 }
 
 /* do not edit this footer */
@@ -23,4 +24,45 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.container {
+  
+}
+.information-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.plant-container {
+  display: flex;
+  gap: 52px;
+  justify-content: space-evenly;
+  
+}
+
+.barberry-container {
+flex-wrap: wrap;
+max-width: 200px;
+text-align: center;
+}
+
+.chili-container {
+  flex-wrap: wrap;
+  max-width: 200px;
+  text-align: center;
+}
+
+.pepper-container {
+  flex-wrap: wrap;
+  max-width: 200px;
+  text-align: center;
+}
+
+.saffron-container {
+  flex-wrap: wrap;
+  max-width: 200px;
+  text-align: center;
+  
 }
